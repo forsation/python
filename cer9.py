@@ -1,4 +1,4 @@
-k = (input('To print my stuff type stuff or to exit type exit : '))
+k = (input('To print my stuff type "stuff" or to exit type "exit" : '))
 
 stuff = dict()
 stuff['laptop'] = 2
