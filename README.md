@@ -6,4 +6,4 @@ Python 3 and above
 
 install using this command 
    
-git clone https://github.com/forsation/python
+git clone \nhttps://github.com/forsation/python
